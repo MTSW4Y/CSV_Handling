@@ -1,0 +1,157 @@
+Uniek bordnummer,Tekst op paneel,Status,C logdata
+3,Ambachtstraat,Geplaatst,"20-6-2011	14:09:10	Patrick Vercauteren	Status	[---]	-»	Geplaatst
+30-5-2011	16:10:18	Admin	Uniek locatienummer	[---]	-»	1
+30-5-2011	16:10:18	Admin	soort	[---]	-»	28
+30-5-2011	16:10:18	Admin	Richting Pijl 1	[---]	-»	r
+30-5-2011	16:10:18	Admin	Tekst op paneel	[---]	-»	Ambachtstraat
+30-5-2011	16:10:18	Admin	Klantcode	[---]	-»	NVT
+30-5-2011	16:10:18	Admin	Behorend bijStatus	[---]	-»	?
+30-5-2011	16:10:18	Admin	Pictogram 1Pictogram 2	[---]	-»	?
+30-5-2011	16:10:18	Admin	Factureren?	[---]	-»	Gefactureerd
+"
+6,Vos Hengelsport,Geplaatst,"20-6-2011	14:09:10	Patrick Vercauteren	Behorend bij	[---]	-»	3
+20-6-2011	14:09:10	Patrick Vercauteren	Status	[---]	-»	Geplaatst
+30-5-2011	16:10:18	Admin	Uniek locatienummer	[---]	-»	1
+30-5-2011	16:10:18	Admin	soort	[---]	-»	29
+30-5-2011	16:10:18	Admin	Tekst op paneel	[---]	-»	Vos Hengelsport
+30-5-2011	16:10:18	Admin	Klantcode	[---]	-»	VOSHAL
+30-5-2011	16:10:18	Admin	Behorend bijStatus	[---]	-»	?
+30-5-2011	16:10:18	Admin	Pictogram 1Pictogram 2	[---]	-»	?
+30-5-2011	16:10:18	Admin	Factureren?	[---]	-»	Gefactureerd
+"
+7,Einsteinstraat,Geplaatst,"20-6-2011	14:09:10	Patrick Vercauteren	Status	[---]	-»	Geplaatst
+30-5-2011	16:10:18	Admin	Uniek locatienummer	[---]	-»	2
+30-5-2011	16:10:18	Admin	soort	[---]	-»	28
+30-5-2011	16:10:18	Admin	Richting Pijl 1	[---]	-»	b
+30-5-2011	16:10:18	Admin	Tekst op paneel	[---]	-»	Einsteinstraat
+30-5-2011	16:10:18	Admin	Klantcode	[---]	-»	NVT
+30-5-2011	16:10:18	Admin	Behorend bijStatus	[---]	-»	?
+30-5-2011	16:10:18	Admin	Pictogram 1Pictogram 2	[---]	-»	?
+30-5-2011	16:10:18	Admin	Factureren?	[---]	-»	Gefactureerd
+"
+9,Drienemansweg,Geplaatst,"20-6-2011	14:09:10	Patrick Vercauteren	Status	[---]	-»	Geplaatst
+30-5-2011	16:10:18	Admin	Uniek locatienummer	[---]	-»	3
+30-5-2011	16:10:18	Admin	soort	[---]	-»	28
+30-5-2011	16:10:18	Admin	Richting Pijl 1	[---]	-»	b
+30-5-2011	16:10:18	Admin	Tekst op paneel	[---]	-»	Drienemansweg
+30-5-2011	16:10:18	Admin	Klantcode	[---]	-»	NVT
+30-5-2011	16:10:18	Admin	Behorend bijStatus	[---]	-»	?
+30-5-2011	16:10:18	Admin	Pictogram 1Pictogram 2	[---]	-»	?
+30-5-2011	16:10:18	Admin	Factureren?	[---]	-»	Gefactureerd
+"
+10,URENCO Nederland B.V.,Geplaatst,"4-3-2013	10:58:25	maze	Tekst op paneel	Urenco Nederland B.V.	-»	URENCO Nederland B.V.
+20-6-2011	14:09:10	Patrick Vercauteren	Behorend bij	[---]	-»	9
+20-6-2011	14:09:10	Patrick Vercauteren	Status	[---]	-»	Geplaatst
+30-5-2011	16:10:18	Admin	Uniek locatienummer	[---]	-»	3
+30-5-2011	16:10:18	Admin	soort	[---]	-»	29
+30-5-2011	16:10:18	Admin	Tekst op paneel	[---]	-»	Urenco Nederland B.V.
+30-5-2011	16:10:18	Admin	Klantcode	[---]	-»	URENAL
+30-5-2011	16:10:18	Admin	Behorend bijStatus	[---]	-»	?
+30-5-2011	16:10:18	Admin	Pictogram 1Pictogram 2	[---]	-»	?
+30-5-2011	16:10:18	Admin	Factureren?	[---]	-»	Gefactureerd
+"
+11,Planthofsweg,Geplaatst,"20-6-2011	14:09:10	Patrick Vercauteren	Status	[---]	-»	Geplaatst
+20-6-2011	14:09:10	Patrick Vercauteren	Opmerking	[---]	-»	Dit is een dubbelzijdig paneel
+30-5-2011	16:10:18	Admin	Uniek locatienummer	[---]	-»	3
+30-5-2011	16:10:18	Admin	soort	[---]	-»	28
+30-5-2011	16:10:18	Admin	Richting Pijl 1	[---]	-»	l
+30-5-2011	16:10:18	Admin	Tekst op paneel	[---]	-»	Planthofsweg
+30-5-2011	16:10:18	Admin	Klantcode	[---]	-»	NVT
+30-5-2011	16:10:18	Admin	Behorend bijStatus	[---]	-»	?
+30-5-2011	16:10:18	Admin	Pictogram 1Pictogram 2	[---]	-»	?
+30-5-2011	16:10:18	Admin	Factureren?	[---]	-»	Gefactureerd
+"
+12,Enrichment Technology ,Geplaatst,"10-11-2011	10:56:08	patrick vercauteren	Klantcode	[---]	-»	ENRIAL
+20-6-2011	14:09:10	Patrick Vercauteren	Behorend bij	[---]	-»	11
+20-6-2011	14:09:10	Patrick Vercauteren	Status	[---]	-»	Geplaatst
+20-6-2011	14:09:10	Patrick Vercauteren	Opmerking	[---]	-»	Dit is een dubbelzijdig paneel
+30-5-2011	16:10:18	Admin	Uniek locatienummer	[---]	-»	3
+30-5-2011	16:10:18	Admin	soort	[---]	-»	29
+30-5-2011	16:10:18	Admin	Tekst op paneel	[---]	-»	Enrichment Technology 
+30-5-2011	16:10:18	Admin	Behorend bijStatus	[---]	-»	?
+30-5-2011	16:10:18	Admin	Pictogram 1Pictogram 2	[---]	-»	?
+30-5-2011	16:10:18	Admin	Factureren?	[---]	-»	Gefactureerd
+"
+13,Edisonstraat,Geplaatst,"20-6-2011	14:09:10	Patrick Vercauteren	Status	[---]	-»	Geplaatst
+20-6-2011	14:09:10	Patrick Vercauteren	Opmerking	[---]	-»	Dit is een dubbelzijdig paneel
+30-5-2011	16:10:18	Admin	Uniek locatienummer	[---]	-»	3
+30-5-2011	16:10:18	Admin	soort	[---]	-»	28
+30-5-2011	16:10:18	Admin	Richting Pijl 1	[---]	-»	l
+30-5-2011	16:10:18	Admin	Tekst op paneel	[---]	-»	Edisonstraat
+30-5-2011	16:10:18	Admin	Klantcode	[---]	-»	NVT
+30-5-2011	16:10:18	Admin	Behorend bijStatus	[---]	-»	?
+30-5-2011	16:10:18	Admin	Pictogram 1Pictogram 2	[---]	-»	?
+30-5-2011	16:10:18	Admin	Factureren?	[---]	-»	Gefactureerd
+"
+14,Herikon BV Kunststoffen,Geplaatst,"20-6-2011	14:09:10	Patrick Vercauteren	Behorend bij	[---]	-»	13
+20-6-2011	14:09:10	Patrick Vercauteren	Status	[---]	-»	Geplaatst
+20-6-2011	14:09:10	Patrick Vercauteren	Opmerking	[---]	-»	Dit is een dubbelzijdig paneel
+30-5-2011	16:10:18	Admin	Uniek locatienummer	[---]	-»	3
+30-5-2011	16:10:18	Admin	soort	[---]	-»	29
+30-5-2011	16:10:18	Admin	Tekst op paneel	[---]	-»	Herikon BV Kunststoffen
+30-5-2011	16:10:18	Admin	Klantcode	[---]	-»	HERIAL
+30-5-2011	16:10:18	Admin	Behorend bijStatus	[---]	-»	?
+30-5-2011	16:10:18	Admin	Pictogram 1Pictogram 2	[---]	-»	?
+30-5-2011	16:10:18	Admin	Factureren?	[---]	-»	Gefactureerd
+"
+15,Staalmarkt Twente,Geplaatst,"20-6-2011	14:09:10	Patrick Vercauteren	Behorend bij	[---]	-»	13
+20-6-2011	14:09:10	Patrick Vercauteren	Status	[---]	-»	Geplaatst
+20-6-2011	14:09:10	Patrick Vercauteren	Opmerking	[---]	-»	Dit is een dubbelzijdig paneel
+30-5-2011	16:10:18	Admin	Uniek locatienummer	[---]	-»	3
+30-5-2011	16:10:18	Admin	soort	[---]	-»	29
+30-5-2011	16:10:18	Admin	Tekst op paneel	[---]	-»	Staalmarkt Twente
+30-5-2011	16:10:18	Admin	Klantcode	[---]	-»	STAAAL
+30-5-2011	16:10:18	Admin	Behorend bijStatus	[---]	-»	?
+30-5-2011	16:10:18	Admin	Pictogram 1Pictogram 2	[---]	-»	?
+30-5-2011	16:10:18	Admin	Factureren?	[---]	-»	Gefactureerd
+"
+16,Bornsestraat,Geplaatst,"20-6-2011	14:09:10	Patrick Vercauteren	Status	[---]	-»	Geplaatst
+30-5-2011	16:10:18	Admin	Uniek locatienummer	[---]	-»	3
+30-5-2011	16:10:18	Admin	soort	[---]	-»	28
+30-5-2011	16:10:18	Admin	Richting Pijl 1	[---]	-»	b
+30-5-2011	16:10:18	Admin	Tekst op paneel	[---]	-»	Bornsestraat
+30-5-2011	16:10:18	Admin	Klantcode	[---]	-»	NVT
+30-5-2011	16:10:18	Admin	Behorend bijStatus	[---]	-»	?
+30-5-2011	16:10:18	Admin	Pictogram 1Pictogram 2	[---]	-»	?
+30-5-2011	16:10:18	Admin	Factureren?	[---]	-»	Gefactureerd
+"
+17,Edisonstraat,Geplaatst,"20-6-2011	14:09:10	Patrick Vercauteren	Status	[---]	-»	Geplaatst
+30-5-2011	16:10:18	Admin	Uniek locatienummer	[---]	-»	4
+30-5-2011	16:10:18	Admin	soort	[---]	-»	28
+30-5-2011	16:10:18	Admin	Richting Pijl 1	[---]	-»	b
+30-5-2011	16:10:18	Admin	Tekst op paneel	[---]	-»	Edisonstraat
+30-5-2011	16:10:18	Admin	Klantcode	[---]	-»	NVT
+30-5-2011	16:10:18	Admin	Behorend bijStatus	[---]	-»	?
+30-5-2011	16:10:18	Admin	Pictogram 1Pictogram 2	[---]	-»	?
+30-5-2011	16:10:18	Admin	Factureren?	[---]	-»	Gefactureerd
+"
+18,Staalmarkt Twente,Geplaatst,"20-6-2011	14:09:10	Patrick Vercauteren	Behorend bij	[---]	-»	17
+20-6-2011	14:09:10	Patrick Vercauteren	Status	[---]	-»	Geplaatst
+30-5-2011	16:10:18	Admin	Uniek locatienummer	[---]	-»	4
+30-5-2011	16:10:18	Admin	soort	[---]	-»	29
+30-5-2011	16:10:18	Admin	Tekst op paneel	[---]	-»	Staalmarkt Twente
+30-5-2011	16:10:18	Admin	Klantcode	[---]	-»	STAAAL
+30-5-2011	16:10:18	Admin	Behorend bijStatus	[---]	-»	?
+30-5-2011	16:10:18	Admin	Pictogram 1Pictogram 2	[---]	-»	?
+30-5-2011	16:10:18	Admin	Factureren?	[---]	-»	Gefactureerd
+"
+19,Planthofsweg,Geplaatst,"20-6-2011	14:09:10	Patrick Vercauteren	Status	[---]	-»	Geplaatst
+30-5-2011	16:10:18	Admin	Uniek locatienummer	[---]	-»	4
+30-5-2011	16:10:18	Admin	soort	[---]	-»	28
+30-5-2011	16:10:18	Admin	Richting Pijl 1	[---]	-»	b
+30-5-2011	16:10:18	Admin	Tekst op paneel	[---]	-»	Planthofsweg
+30-5-2011	16:10:18	Admin	Klantcode	[---]	-»	NVT
+30-5-2011	16:10:18	Admin	Behorend bijStatus	[---]	-»	?
+30-5-2011	16:10:18	Admin	Pictogram 1Pictogram 2	[---]	-»	?
+30-5-2011	16:10:18	Admin	Factureren?	[---]	-»	Gefactureerd
+"
+20,Aeronamic B.V.,Geplaatst,"20-6-2011	14:09:10	Patrick Vercauteren	Behorend bij	[---]	-»	19
+20-6-2011	14:09:10	Patrick Vercauteren	Status	[---]	-»	Geplaatst
+30-5-2011	16:10:18	Admin	Uniek locatienummer	[---]	-»	4
+30-5-2011	16:10:18	Admin	soort	[---]	-»	29
+30-5-2011	16:10:18	Admin	Tekst op paneel	[---]	-»	Aeronamic B.V.
+30-5-2011	16:10:18	Admin	Klantcode	[---]	-»	AEROAL
+30-5-2011	16:10:18	Admin	Behorend bijStatus	[---]	-»	?
+30-5-2011	16:10:18	Admin	Pictogram 1Pictogram 2	[---]	-»	?
+30-5-2011	16:10:18	Admin	Factureren?	[---]	-»	Gefactureerd
+"
